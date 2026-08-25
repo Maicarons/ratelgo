@@ -3,7 +3,7 @@ module github.com/ratel-online/client
 go 1.17
 
 require (
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.3
 	github.com/ratel-online/core v0.0.0-20220812071405-08d34103ae05
 )
 
